@@ -1,3 +1,3 @@
 # MyCheckers
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-jpsffq)
+Хочу сделать русские шашки на двоих.
